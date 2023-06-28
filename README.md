@@ -3,8 +3,8 @@ As Abhishek Kumar Singh, a passionate software engineer and a natural problem so
 
 You can check my linkedin profile: https://www.linkedin.com/in/kumarishek/ 
     🔭 I’m currently working on self learning
-    🌱 I’m currently learning NLP / Biometric Research
-    👯 I’m looking to collaborate on ML / Data Science
+    🌱 I’m currently different software tools/ Biometric solving problems
+    👯 I’m looking to collaboration 
 <!--
 **anshuhishek/anshuhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
