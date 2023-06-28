@@ -2,7 +2,7 @@
 As Abhishek Kumar Singh, a passionate software engineer and a natural problem solver, I bring strong analytical skills and attention to detail to every project. With expertise in Java and technologies like Spring Boot, Kafka, and Docker, I have developed robust web applications and contributed to cutting-edge research. My experience as a Campus Ambassador and leadership roles have honed my ability to lead teams and drive impactful results. Let's code and create an innovative future together.
 
 You can check my linkedin profile: https://www.linkedin.com/in/kumarishek/ 
-    🔭 I’m currently working on https://www.linkedin.com/company/olympian-edtech/?viewAsMember=true
+    🔭 I’m currently working on self learning
     🌱 I’m currently learning NLP / Biometric Research
     👯 I’m looking to collaborate on ML / Data Science
 <!--
