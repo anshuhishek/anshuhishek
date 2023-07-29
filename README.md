@@ -1,23 +1,26 @@
+<h1 align="center">Hi 👋, I'm ABHISHEK KUMAR SINGH</h1>
+<h3 align="center">A passionate to be software engineer</h3>
 
-<!--You can check my linkedin profile:
-    🔭 I’m currently working on self learning
-    🌱 I’m currently different software tools/ Biometric solving problems
-    👯 I’m looking to collaboration 
+<img align="right" alt="Coding" width="400" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/how-to-read-a-competitive-programming-problem-1.jpg">
 
-**anshuhishek/anshuhishek** is .✨ _special_ ✨ a repository because its `README.md` (this file) appears on your GitHub profile.
--->
-### Hi there 👋
-![image](https://github.com/anshuhishek/anshuhishek/assets/85212273/795204cb-9979-422a-8a1f-f319bd8e211c)
+- 🔭 I’m currently working on **DSA Javascript and web-development**
 
+- 🌱 I’m currently learning **Frameworks**
 
-I Abhishek Kumar Singh, a passionate software engineer and a natural problem solver, I bring strong analytical skills and attention to detail to every project. With expertise in Java and technologies like Spring Boot, Kafka, and Docker, I have developed robust web applications and contributed to cutting-edge research. My experience as a Campus Ambassador and leadership roles have honed my ability to lead teams and drive impactful results. Let's code and create an innovative future together.  ![image](https://github.com/anshuhishek/anshuhishek/assets/85212273/3f8f70ca-4e96-4b45-9c21-d64fe9935cf3)
-- 🔭 I’m currently working on git
-- 🌱 I’m currently learning something
-- 👯 I’m looking to collaborate on anything
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me:  https://www.linkedin.com/in/kumarishek/ 
-<!--- 💬 Ask me about ...
-- 📫 How to reach me:  https://www.linkedin.com/in/kumarishek/ 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- 📫 How to reach me **https://www.linkedin.com/in/kumarishek/**
 
+- 📄 Know about my experiences [https://d20gxk19q2gyuc.cloudfront.net/1690083010777Finalfresume_pdf](https://d20gxk19q2gyuc.cloudfront.net/1690083010777Finalfresume_pdf)
+
+- ⚡ Fun fact **To eat Ice-cream with watch movies;**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/anshuhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="anshuhishek" height="30" width="40" /></a>
+<a href="https://twitter.com/anshuhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anshuhishek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kumarishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumarishek" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anshuhishek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anshuhishek" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anshuhishek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshuhishek" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
