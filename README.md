@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 📫 How to reach me **https://www.linkedin.com/in/kumarishek/**
+- 📫 How to reach me **https://www.linkedin.com/in/anshuhishek/**
 
 - 📄 Know about my experiences [https://anshuhishek.hackerresume.io/46b4cf59-7960-468c-ba3a-fb509db423bc](https://anshuhishek.hackerresume.io/46b4cf59-7960-468c-ba3a-fb509db423bc)
 
