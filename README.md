@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DSA Javascript and web-development**
 
-- 🌱 I’m currently learning **Frameworks**
+- 🌱 I’m currently learning **Framework**
 
 - 📫 How to reach me **https://www.linkedin.com/in/kumarishek/**
 
